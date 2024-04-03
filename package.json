@@ -1,0 +1,9 @@
+{
+  "name": "projeto-blog",
+  "version": "1.0.0",
+  "description": "Uma plataforma simples de perguntas e respostas",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Julio",
+  "license": "ISC"
+}
